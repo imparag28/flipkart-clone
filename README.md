@@ -17,26 +17,35 @@ Flipkart is India's leading E-commerce marketplace with over 80 million products
 
 For storing user data we also used localStorage.
 
+## DATABASE
 
-
-## Installation
-
-Install all npm dependecies
-
-```console
-npm install
-```
-
-Install nodemon globally
-
-```console
-npm install -g nodemon
-```
+We are using monogoDB for data storage and we are using NodeJS and ExpreeJS for intracting with our database in backend.
 
 ## Contributors
 <li>Vikas Gaikwad</li>
 <li>Sanket Patil</li>
 <li>Parag Jagadale</li>
+
+## Functionality Added
+<li>Signup</li> 
+<li>Login</li>
+<li>Filtering the produucts in product page </li>
+<li>Adding prducts to cart </li>
+<li>Making payment </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Glimpse of our work 📷
 <li>Login/Signup page</li>
